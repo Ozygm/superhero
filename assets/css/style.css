@@ -1,0 +1,15 @@
+body{
+    font-family: 'Yomogi', cursive;
+}
+
+h2, h5{
+    text-align: center;
+}
+
+.navbg{
+    background-color: #A4DDF6;
+}
+
+#mensaje {
+    color:crimson;
+}
